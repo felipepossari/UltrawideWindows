@@ -18,6 +18,8 @@ F9 -> up-center</br>
 
 It also works with the combination of CTRL and ALT keys (ALT+F4 is disabled)
 
+Note that using the Meta+F4/F5/F6 the windows will be rendered with a extra right width of 320px.
+
 
 # Pre Installation
 
