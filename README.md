@@ -18,11 +18,8 @@ F9 -> up-center</br>
 
 It also works with the combination of CTRL and ALT keys (ALT+F4 is disabled)
 
-Expose useful shortcuts to manage windows in a ultrawide monitor and, in general, in a high resolution monitor.
-This solution is intended to be an easy-to-use middleground between the default behaviour and the tiling approach.
 
-
-# Pre Instalation
+# Pre Installation
 
 You have to disable shortcuts with Meta+Fx, Ctrl+Fx and Alt+Fx before run the installation or the keys here will not be added properly
 
